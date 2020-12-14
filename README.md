@@ -5,6 +5,9 @@ Don't ask me why I made this, basically this TWRP tree is very easy to make and 
 
 # Getting started
 ```bash
+# Make folder
+$ mkdir teos_twrp ; cd teos_twrp
+
 # Clone TWRP tree
 $ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1
 
