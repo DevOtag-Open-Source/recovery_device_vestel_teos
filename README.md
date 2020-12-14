@@ -9,7 +9,7 @@ Don't ask me why I made this, basically this TWRP tree is very easy to make and 
 $ mkdir teos_twrp ; cd teos_twrp
 
 # Clone TWRP tree
-$ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1
+$ repo init -u https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1
 
 # Clone my repo
 $ git clone https://github.com/TeGaX/android_device_teos device/vestel/teos
