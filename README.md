@@ -1,4 +1,5 @@
-# TWPR Tree for Teos [Testing]
+# TWRP Tree for Teos [Testing]
+## Note by Tenshi
 ```bash
 Don't ask me why I made this, basically this TWRP tree is very easy to make and I want make it for someone who want make their own TWRP
 ````
