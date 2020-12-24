@@ -13,7 +13,7 @@ $ mkdir teos_twrp ; cd teos_twrp
 $ repo init -u https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1
 
 # Clone this repo
-$ git clone https://github.com/windowzytch/recovery_device_teos device/vestel/teos
+$ git clone https://github.com/windowzytch/recovery_device_teos -b omni_7.1-by-Tenshi2112 device/vestel/teos
 
 # Sync
 $ repo sync
